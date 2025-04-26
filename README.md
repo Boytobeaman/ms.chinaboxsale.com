@@ -1,6 +1,6 @@
 # Fresh project
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
+This is a marketing langding page template using deno and tailwindcss  
 Started" guide here: https://fresh.deno.dev/docs/getting-started
 
 ### Usage
