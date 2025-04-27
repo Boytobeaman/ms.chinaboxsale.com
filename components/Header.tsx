@@ -13,7 +13,7 @@ export default function Header() {
            {/* Replace with your actual logo if you have one */}
            {/* <img src="/img/logo.png" alt="Logo Krat Lipat" class="h-8 w-auto mr-3" /> */}
            <a href="/" class="text-xl font-bold hover:text-blue-400">
-             Krat Lipat Borong
+            keranjang buah plastik
            </a>
         </div>
         <div class="flex">
